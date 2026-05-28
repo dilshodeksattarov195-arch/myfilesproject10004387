@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usereelete",
+        "uuid": 27208174,
+        "checksum": "0ff20e"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
